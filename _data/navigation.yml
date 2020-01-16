@@ -52,8 +52,4 @@ header:
       - title:      导航示例
         children:
           - title: Welcome
-            url: #
-          - title: Post with Header Image
-            url: #
-          - title:  Java 搭建 SSM
-            url:    #
+            url: www.baidu.com
